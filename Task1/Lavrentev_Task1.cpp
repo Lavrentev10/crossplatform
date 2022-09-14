@@ -2,7 +2,9 @@
 #include <string>
 
 using namespace std;
-
+/*
+int main123(int argc, char** argv){
+*/
 int main(int argc, char** argv){
     cout << "Hello world" << endl;
 
@@ -15,4 +17,6 @@ int main(int argc, char** argv){
     cin >> num;
     cout << "Hello, " << name << "!\nYour number is " << num <<endl;
 
+    //return 0;
+    //return 123;
 }
